@@ -32,7 +32,6 @@ logo='''
  Location: Pakistan
  Team :  666 HACKERS
  ☠️This Tool is created By Faiz King☠️
- ...............FAIZ KING ETHICAL HACKER................
 --------------------------------------------------
                                 '''
 
